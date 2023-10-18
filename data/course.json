@@ -1,0 +1,32 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "mydemosite"
+  },
+  "course_image": {
+    "content": "",
+    "website": "mydemosite"
+  },
+  "course_title": "Computer Programming",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "mydemosite"
+  },
+  "learning_resource_types": [],
+  "site_uid": "1feca959-bcf2-4767-b796-80f840435e2a",
+  "site_short_id": "demo123"
+}
